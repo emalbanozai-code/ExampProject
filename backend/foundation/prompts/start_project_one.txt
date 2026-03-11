@@ -1,0 +1,6 @@
+1. اول دغه 
+
+from this project remve other sidebar items
+ without dashboard report logout
+
+
