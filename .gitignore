@@ -1,6 +1,9 @@
 **/node_modules 
 **/venv
+**/.venv
+**/.python-version
 **/.env
+**/.env.*
 **/.env.local
 **/.env.development.local
 **/.env.test.local
@@ -16,6 +19,7 @@
 **/build
 **/dist
 **/coverage
+**/coverage.xml
 **/*.log
 **/*.sqlite3
 **/*.db
@@ -44,6 +48,13 @@
 **/*.env.production.local
 **/*.env
 **/*.env
+**/staticfiles
+**/media
+**/.pytest_cache
+**/.mypy_cache
+**/.ruff_cache
+**/.vite
+!**/.env.example
 
 
 **/__pycache__/
