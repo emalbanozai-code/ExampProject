@@ -1,0 +1,6 @@
+make this project production ready to be hosted in railway.com
+i want to use postgres (dj_database_url) 
+using docker seperate backend and frontend docker 
+add necesary configurations, add necesary files and folders to
+gitignore,
+railway configurations   
