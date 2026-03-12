@@ -50,6 +50,7 @@
 **/*.env
 **/staticfiles
 **/media
+**/.railway
 **/.pytest_cache
 **/.mypy_cache
 **/.ruff_cache
