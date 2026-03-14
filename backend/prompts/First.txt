@@ -1,0 +1,24 @@
+this my online exam system backend and frontend.
+i want to make it in react ts + tailwind v4 + django drf.
+well strucuture it add modulers.
+in frontend each model should have services (api calls ), hooks, stores, schema, components and pages folders.
+each code should be in the appropriate folder.
+now I want you to plan Employee/Management model.
+features:
+
+• First Name  
+• Last Name  
+• Father Name  
+• Date of Birth  
+• Address 
+• Phone Number  
+• Email (Unique)  
+• Role (Admin / Instructor / Staff)  
+• Salary  
+• Work Days 
+• Join Date  
+• Status (Active / Inactive) 
+• Username (Unique) 
+• Password (Hashed) 
+• Created At  
+• Updated At 
